@@ -1,6 +1,7 @@
 ### Hi there 👋, i'm Tanvir Rashid
 #### 💻 MERN Stack Developer | 🚀 Lifelong Learner | 🎯 Vision-Driven Technologist
-![💻 MERN Stack Developer | 🚀 Lifelong Learner | 🎯 Vision-Driven Technologist](https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png)
+![💻 MERN Stack Developer | 🚀 Lifelong Learner | 🎯 Vision-Driven Technologist]
+(https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png)
 
 I am Tanvir Rashid, a passionate MERN Stack Developer currently pursuing my BSc in Physics at Jessore University of Science and Technology (JUST). I aim to bridge the gap between technology and impactful user experience, building scalable and performant web applications that solve real-world problems. 
 
