@@ -1,81 +1,34 @@
-<!-- Banner / Cover Image -->
-<img src="https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png" alt="Cover Banner" style="width:100%;"/>
+### Hi there 👋, i'm Tanvir Rashid
+#### 💻 MERN Stack Developer | 🚀 Lifelong Learner | 🎯 Vision-Driven Technologist
+![💻 MERN Stack Developer | 🚀 Lifelong Learner | 🎯 Vision-Driven Technologist](https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png)
 
-<h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
-
-<p align="center">
-  <strong>💻 MERN Stack Developer | 🚀 Lifelong Learner | 🎯 Vision-Driven Technologist</strong>
-</p>
-
----
-
-## 🧑‍💼 About Me
-
-I am [Your Full Name], a passionate MERN Stack Developer currently pursuing my BSc in Physics at Jessore University of Science and Technology (JUST). I aim to bridge the gap between technology and impactful user experience, building scalable and performant web applications that solve real-world problems. 
+I am Tanvir Rashid, a passionate MERN Stack Developer currently pursuing my BSc in Physics at Jessore University of Science and Technology (JUST). I aim to bridge the gap between technology and impactful user experience, building scalable and performant web applications that solve real-world problems. 
 
 🧠 **Vision:** To become a full-stack product engineer contributing to sustainable tech solutions with global impact.
 
 ---
 
-## 📫 Contact Me
+Skills: React / Next.js / Node / Express.js / Mongodb / Js / CSS
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 🔭 I’m currently working on as a mern stack developer 
+- 🌱 I’m currently learning   Advanced backend design patterns, authentication strategies (JWT, OAuth), and deploying full-stack applications with **Docker & CI/CD**. 
+- 👯 I’m looking to collaborate on  Open-source web tools, student community apps, real-time chat apps, or any full-stack productivity tools that solve practical problems. 
+- 🤔 I’m looking for help with **Production-level deployment**, **optimizing MongoDB queries**, and contributing to large-scale open-source MERN projects. 
+- 💬 Ask me about MERN Stack development, API design, Tailwind CSS, responsive UIs, and JavaScript best practices. 
+- 📫 How to reach me:   📧 [tanvirrashid881@gmail.com](mailto:tanvirrashid881@gmail.com)     💼 [LinkedIn](https://www.linkedin.com/in/tanvirrashid881) 
 
----
 
-## 🔧 What I Do
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohammadTanvir881)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvirrashid881/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammad.tanvir.114)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohammadtanvirfardin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://new-portfolio-sage-three.vercel.app/)  
 
-- 🛠️ Build full-stack web apps using the MERN stack
-- 🎨 Create responsive and clean UI/UX using TailwindCSS
-- 📡 RESTful API development and integration
-- 🔍 Focus on clean code, modular architecture, and performance optimization
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadTanvir881)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠️ Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTanvir881)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadTanvir881&show_icons=true)  
 
----
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MohammadTanvir881/contributions?format=svg&private=false)  
 
-## 📈 GitHub Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadTanvir881)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="450"/>
-</p>
-
----
-
-## 📌 Pinned Projects
-
-1. **Tutor Connect**  
-   _A web platform for students to find and connect with tutors based on subjects, rating, price, and availability._  
-   [🔗 View Repository](https://github.com/yourusername/tutor-connect)
-
-2. **Alphabet Clash Game**  
-   _A fast-paced typing game using DOM, Tailwind, and Vanilla JS._  
-   [🔗 View Repository](https://github.com/yourusername/alphabet-clash)
-
-3. **JUST Notes App**  
-   _A collaborative notes sharing app for students of JUST, made with MERN stack._  
-   [🔗 View Repository](https://github.com/yourusername/just-notes)
-
----
-
-> ⚠️ Each project has a detailed `README.md` with features, screenshots, tech stack, and instructions.
-
----
