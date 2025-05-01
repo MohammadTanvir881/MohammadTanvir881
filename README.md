@@ -1,6 +1,5 @@
 <!-- Banner / Cover Image -->
-<img src="https://i.ibb.co/DHnjF7h/Screenshot-from-2025-05-02-00-55-27.png" alt="Banner" style="width:100%;" />
-
+<img src="[https://your-image-host/banner.png](https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png)" alt="Banner" style="width:100%;"/>
 
 <h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
 
@@ -95,4 +94,3 @@ I am [Your Full Name], a passionate MERN Stack Developer currently pursuing my B
 ---
 
 Let me know if you want help designing the **banner image** or **README files** for each project — I can generate those for you!
-
