@@ -8,6 +8,20 @@ I am Tanvir Rashid, a passionate MERN Stack Developer currently pursuing my BSc 
 
 ---
 
+## 🛠️ What I Work On
+
+As a **MERN Stack Developer**, I focus on:
+
+- 🧩 Building **full-stack web applications** using **MongoDB, Express.js, React.js, and Node.js**
+- 🎨 Designing **user-friendly and responsive interfaces** with **React** and **Tailwind CSS**
+- 🔗 Creating and integrating **RESTful APIs**
+- 🔐 Implementing **authentication and authorization** using **JWT** and **Firebase**
+- ⚡ Developing **real-time features** like chat and live updates with **WebSocket / Socket.io**
+- 🧠 **Database design and optimization** with **MongoDB**
+- 🧼 Writing **clean, modular, and scalable code**
+- 🧑‍💻 Using **Git and GitHub** for version control and team collaboration
+
+
 ## 🛠️ Tech Stack
 
 <p align="center">
