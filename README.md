@@ -1,5 +1,5 @@
 <!-- Banner / Cover Image -->
-<img src="[https://your-image-host/banner.png](https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png)" alt="Banner" style="width:100%;"/>
+<img src="https://i.ibb.co.com/DHnjF7ht/Screenshot-from-2025-05-02-00-55-27.png" alt="Cover Banner" style="width:100%;"/>
 
 <h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
 
@@ -79,18 +79,3 @@ I am [Your Full Name], a passionate MERN Stack Developer currently pursuing my B
 > ⚠️ Each project has a detailed `README.md` with features, screenshots, tech stack, and instructions.
 
 ---
-
-## 🖼️ Pro Tips for Completing Your Task
-
-- **Professional Image**: Use a clear, well-lit portrait (e.g., blazer, neutral background).
-- **Cover Banner**: Create one with your name, role, and tech logos using tools like [Canva](https://canva.com) or [Figma](https://figma.com).
-- **Project READMEs**: Use sections like:
-  - Overview
-  - Features
-  - Tech Stack
-  - Screenshots (if any)
-  - How to run
-
----
-
-Let me know if you want help designing the **banner image** or **README files** for each project — I can generate those for you!
