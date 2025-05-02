@@ -44,7 +44,5 @@ As a **MERN Stack Developer**, I focus on:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadTanvir881&show_icons=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/d3we)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=d3we)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MohammadTanvir881)  
 
